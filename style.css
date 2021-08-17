@@ -72,3 +72,9 @@ table{
     color: yellowgreen;
 }
 
+h1{
+    font-family: impact, fantasy;
+    text-align: center;
+    font-size: 30px;
+    color: maroon; 
+}
